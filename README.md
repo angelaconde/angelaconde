@@ -7,7 +7,7 @@
 - 💼 I’m looking for a job.
 - 👀 I’m currently learning Vue.js.
 - 🎮 I love playing video games.
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="20"> You can find me on <a href="https://www.linkedin.com/in/angelaconde" target="_blank" rel="noopener noreferrer"> linkedin.com/in/angela-conde</a>.
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="20"> You can find me on <a href="https://www.linkedin.com/in/angela-conde" target="_blank" rel="noopener noreferrer"> linkedin.com/in/angela-conde</a>.
 
 ## 🔧 Languages and Tools:
 
